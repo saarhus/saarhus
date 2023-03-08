@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Søren Aarhus Gregersen, currently working as a consultant at [TwoDay](https://www.twoday.dk/). I am a Backend C# developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
+I am Søren Aarhus Gregersen, currently working as a part-time consultant at [TwoDay](https://www.twoday.dk/) and studying Computer Science at [DIKU](https://di.ku.dk/). I am a Backend C# developer and love writing clean and maintainable code. Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-SørenAarhusGregersen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sorenaarhusgregersen/)](https://www.linkedin.com/in/sorenaarhusgregersen/)
 [![Gmail Badge](https://img.shields.io/badge/-grgrsn97@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:grgrsn97@gmail.com)](mailto:grgrsn97@gmail.com)
