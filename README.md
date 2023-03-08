@@ -9,7 +9,7 @@ I am Søren Aarhus Gregersen, currently working as a Software Engineer at the [T
 
 ## ⚡ Technologies
 
-![CSharp]([https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white])
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -19,7 +19,7 @@ I am Søren Aarhus Gregersen, currently working as a Software Engineer at the [T
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![MicrosoftExcel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=saarhus&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saarhus&hide=TeX&layout=compact)
