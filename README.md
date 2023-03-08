@@ -9,7 +9,7 @@ I am Søren Aarhus Gregersen, currently working as a Software Engineer at the [T
 
 ## ⚡ Technologies
 
-![CSharp]([https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white))
+![CSharp]([https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white])
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
