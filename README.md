@@ -15,7 +15,6 @@ I am Søren Aarhus Gregersen, currently working as a Software Engineer at the [T
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -24,4 +23,8 @@ I am Søren Aarhus Gregersen, currently working as a Software Engineer at the [T
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=saarhus&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saarhus&hide=TeX&layout=compact)
 
+![System](https://img.shields.io/badge/Apple-Macbook-Pro-M1-2021-999999?style=flat-square&logo=apple&logoColor=white)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=saarhus.saarhus)
+
+
