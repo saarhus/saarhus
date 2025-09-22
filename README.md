@@ -4,7 +4,7 @@
 [![Email](https://img.shields.io/badge/-grgrsn97@gmail.com-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:grgrsn97@gmail.com)
 
 ## About
-IT consultant based in Copenhagen focused on Dynamics 365 and systems integration. I build apps and automation end-to-end. Most projects run in Docker. I train a lot (triathlon; completed an Ironman). Recent work includes a housing web-scraper that updates Google Sheets and emails me on new listings, *Pacely* (a personal coaching app), and a Dynamics 365 integration using the AS4 transport layer for import/export declarations.
+IT consultant based in Copenhagen focused on Dynamics 365 and systems integration. I like to train and stay active (completed Ironman CPH 2025) I build apps and automation end-to-end. Most projects run in Docker. Recent work includes a housing web-scraper that updates Google Sheets and emails me on new listings, *Pacely* (a personal coaching app), and a Dynamics 365 integration using the AS4 transport layer for import/export declarations.
 
 ## Tech
 
